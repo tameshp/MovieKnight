@@ -10,4 +10,5 @@ Home page:
 
 
 Help page:
-![web2](https://user-images.githubusercontent.com/100929964/196880468-74058909-3f2b-4834-b9a3-b9f7da4c4c79.jpg)
+![web3](https://user-images.githubusercontent.com/100929964/196893819-0ff990c9-3f41-472a-a423-8312e7771c03.jpg)
+
